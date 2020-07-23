@@ -121,6 +121,14 @@ for example look for an email, JSchmo@company.com First Initial and Last Name @ 
 - Metagoofil -> is a pretty strong information gathering tool. It'll take metadata from the target and then it puts it into the form of a web page.
 - FOCA -> which is fingerprinting organizations with collective archives examines metadata so you can tell what software is being used, again, such as .doc, pdf, PowerPoint files, along with determining what operating system is in use and other information.
 - Linux tool "theHarvester" -> collects emails, employee names, hosts, available ports and banners from various public sources, such as search engines, key servers and databases.
+- *dnsrecon -h* -> a linux tool for grnrating a domain name
+- ICMP Ping Command -> used to see which hosts are alive, a very chatty protocol
+- *Ping* uses ICMP -> used to test the reachability of ICMP
+- *Tracert* -> Traces route and provides path and transit times
+- *PathPing* -> combines Ping + Tracert
+- Namp
+- *nslookup* -> used to diagnose DNS
+
 
 #### DNS 
 
@@ -140,3 +148,5 @@ for example look for an email, JSchmo@company.com First Initial and Last Name @ 
 | AAAA | Maps a hostname to a 128-bit IPv6 address of the host |
 | PTR | Pointer-most common use for implementing reverse DNS lookups |
 | MX | Mail exchange record |
+| SOA | Start of Authority |
+
