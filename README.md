@@ -14,3 +14,9 @@ Course 1 [link](https://www.linkedin.com/learning/ethical-hacking-introduction-t
 Course 2 [link](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance/)
 - [files](https://github.com/Coryf65/EthicalHacking_Path/tree/master/2_Reconnaissance)
 - [Notes](https://github.com/Coryf65/EthicalHacking_Path/blob/master/2_Reconnaissance/Notes.md)
+
+## Ethical Hacking: Scanning Networks
+
+Course 3 [link](https://www.linkedin.com/learning/ethical-hacking-scanning-networks/)
+- [files](https://github.com/Coryf65/EthicalHacking_Path/tree/master/3_ScanningNetworks)
+- [Notes](https://github.com/Coryf65/EthicalHacking_Path/blob/master/3_ScanningNetworks/Notes.md)
