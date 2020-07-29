@@ -217,3 +217,24 @@ example of using proxy and nmap in Kali/Linux
 - Spoof your Address, fake your IPs
 - no possibility of getting a reply
 - ARP spoofing
+
+# Tunneling
+
+- they bypass most firewall and proxy restrictions
+- only allow per-approved software
+- set group policies
+- close uneeded ports and services
+- use an AV software
+- use an IDS
+- inspect the log files
+- build statistics
+- set connection timeouts
+- don't alloe HTTP-CONNECT queris
+- disable SSH port forwarding
+
+1. HTTP
+    - Teredo IPv6 over UDP Tunneling
+    - IPSec, SSL for Encryption
+    
+2. SSH
+
