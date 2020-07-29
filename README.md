@@ -20,3 +20,9 @@ Course 2 [link](https://www.linkedin.com/learning/ethical-hacking-footprinting-a
 Course 3 [link](https://www.linkedin.com/learning/ethical-hacking-scanning-networks/)
 - [files](https://github.com/Coryf65/EthicalHacking_Path/tree/master/3_ScanningNetworks)
 - [Notes](https://github.com/Coryf65/EthicalHacking_Path/blob/master/3_ScanningNetworks/Notes.md)
+
+## Ethical Hacking: Enumeration
+
+Course 4 [link](https://www.linkedin.com/learning/ethical-hacking-enumeration/)
+- [files](https://github.com/Coryf65/EthicalHacking_Path/tree/master/4_Enumeration)
+- [Notes](https://github.com/Coryf65/EthicalHacking_Path/blob/master/4_Enumeration/Notes.md)
